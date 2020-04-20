@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MovieCatalogue(UI/UX)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movies">Movies</string>
+    <string name="name_movies">Movies Name</string>
+    <string name="desc_movies">Movies Description</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="detail_movies">Movie Detail</string>
+    <string name="search_hint_movies">Search Movies</string>
+    <string name="button_search_movies">Button Search Movies</string>
+
+    <string name="tvshow">TV Shows</string>
+    <string name="name_tvshow">TV Shows Name</string>
+    <string name="desc_tvshow">TV Shows Description</string>
+    <string name="favorite_tvshow">Favorite TV Shows</string>
+    <string name="detail_tvshow">TV Shows Detail</string>
+    <string name="search_hint_tvshow">Search TV Shows</string>
+    <string name="button_search_tvshow">Button Search TV Shows</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="reminder_settings">Reminder Settings</string>
+
+    <string name="added_to_favorite">Added to Favorites</string>
+    <string name="removed_from_favorite">Removed From Favorites</string>
+    <string name="fsilure">The Connection Failed. Please check your internet connection and try again</string>
+    <string name="appwidget_text">Favorite Movies</string>
+    <string name="empty_text">Sorry, no data found.</string>
+
+    <string name="title_daily_reminder">Daily Reminder</string>
+    <string name="desc_daily_reminder">Movie Catalogue will remind you to open this app everyday</string>
+    <string name="title_new_release_reminder">New Release Reminder</string>
+    <string name="desc_new_release_reminder">Movie Catalogue will remind you about newly released movie</string>
+
+    <string name="daily_enabled">Daily Reminder Enabled</string>
+    <string name="daily_disabled">Daily Reminder Disabled</string>
+    <string name="new_release_enabled">New Release Reminder Enabled</string>
+    <string name="new_release_disabled">New Release Reminder Disabled</string>
+
+    <string name="add_to_favorite">Add To Favorites</string>
+
+    <string name="reminder">Reminder</string>
+
+</resources>

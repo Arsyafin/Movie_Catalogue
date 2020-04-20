@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movies">Film</string>
+    <string name="name_movies">Nama Film</string>
+    <string name="desc_movies">Deskripsi Film</string>
+    <string name="favorite_movies">Film Favorit</string>
+    <string name="detail_movies">Detail Film</string>
+    <string name="search_hint_movies">Pencarian Film</string>
+    <string name="button_search_movies">Tombol Pencarian Film</string>
+
+    <string name="tvshow">Acara TV</string>
+    <string name="name_tvshow">Nama Acara TV</string>
+    <string name="desc_tvshow">Deskripsi Acara TV</string>
+    <string name="favorite_tvshow">Acara TV Favorit</string>
+    <string name="detail_tvshow">Detail Acara TV</string>
+    <string name="search_hint_tvshow">Pencarian Acara TV</string>
+    <string name="button_search_tvshow">Tombol Pencarian Acara TV</string>
+
+    <string name="change_language_settings">Pengaturan Ganti Bahasa</string>
+    <string name="reminder_settings">Pengaturan Pengingat</string>
+
+    <string name="added_to_favorite">Ditambahkan ke Favorit</string>
+    <string name="removed_from_favorite">Dihilangkan dari Favorit</string>
+    <string name="fsilure">Jaringan Gagal. Tolong cek jaringan internet anda dan coba lagi</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="empty_text">Maaf, data tidak ditemukan</string>
+
+    <string name="title_daily_reminder">Pengingat Harian</string>
+    <string name="desc_daily_reminder">Movie Catalogue akan mengingatkan kamu untuk membuka aplikasi setiap hari</string>
+    <string name="title_new_release_reminder">Pengingat Rilis terbaru</string>
+    <string name="desc_new_release_reminder">Movie Catalogue akan mengingatkan kamu tentang film baru yang dirilis</string>
+
+    <string name="daily_enabled">Pengingat Harian Diaktifkan</string>
+    <string name="daily_disabled">Pengingat Harian Dinonaktifkan</string>
+    <string name="new_release_enabled">Pengingat Rilis Terbaru Diaktifkan</string>
+    <string name="new_release_disabled">Pengingat Rilis Terbaru Dinonaktifkan</string>
+
+    <string name="add_to_favorite">Tambah ke Favorit</string>
+
+    <string name="reminder">Pengingat</string>
+</resources>
